@@ -1,0 +1,14 @@
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\bin\Release\Simple_Text_List_Overlay.exe.config
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\bin\Release\Simple_Text_List_Overlay.exe
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\bin\Release\Simple_Text_List_Overlay.pdb
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.CoreForm.resources
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.Properties.Resources.resources
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.SettingsForm.resources
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.csproj.GenerateResource.cache
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.csproj.CoreCompileInputs.cache
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.exe
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.pdb
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\bin\Release\Simple_Text_List_Overlay.exe.manifest
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\bin\Release\Simple_Text_List_Overlay.application
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.exe.manifest
+F:\My Programs\Simple_Text_List_Overlay\Simple_Text_List_Overlay\obj\Release\Simple_Text_List_Overlay.application
